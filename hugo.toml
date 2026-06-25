@@ -1,0 +1,59 @@
+baseURL = 'https://park-q.github.io/'
+locale = 'ko-kr'
+title = '오늘의 배당·시황 노트'
+theme = 'PaperMod'
+
+# 페이지네이션 (한 페이지에 보일 글 수)
+[pagination]
+  pagerSize = 10
+
+# PaperMod 권장 설정
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[minify]
+  disableXML = true
+
+[params]
+  env = 'production'
+  description = '배당락일, 배당 일정, 그날의 시황을 쉽게 정리하는 노트'
+  author = 'ParkBoyeon'
+  defaultTheme = 'auto'        # auto / light / dark
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+
+  [params.homeInfoParams]
+    Title = '오늘의 배당·시황 노트 👋'
+    Content = '배당락일과 배당 일정, 그리고 그날의 시황을 비전공자도 이해할 수 있게 쉽게 풀어 적습니다.'
+
+  [params.label]
+    text = '오늘의 배당·시황 노트'
+
+# 상단 메뉴
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = '글 목록'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'tags'
+    name = '태그'
+    url = '/tags/'
+    weight = 20
+
+# 코드 하이라이트
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true

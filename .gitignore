@@ -1,0 +1,8 @@
+# Hugo 빌드 결과물 (자동 생성되므로 올리지 않음)
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
