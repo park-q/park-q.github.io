@@ -6,6 +6,13 @@
   margin: 1.5em auto;
 }
 
+/* 흐름도 이미지: 일반 본문 이미지보다 더 작게 표시 */
+.post-content img[src*="-flow"] {
+  max-width: 280px;
+  width: 100%;
+  margin: 1.5em auto;
+}
+
 /* 본문 글자 크기: PC는 약간, 모바일은 더 많이 축소 */
 .post-content {
   font-size: 16px;
