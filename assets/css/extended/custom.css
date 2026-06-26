@@ -1,0 +1,19 @@
+/* 본문 이미지: 화면/본문 폭을 넘지 않고 비율 유지하며 자동 축소 */
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+}
+
+/* 본문 글자 크기: PC는 약간, 모바일은 더 많이 축소 */
+.post-content {
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+@media (max-width: 768px) {
+  .post-content {
+    font-size: 15px;
+  }
+}
