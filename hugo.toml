@@ -33,7 +33,7 @@ enableEmoji = true
 
   [params.homeInfoParams]
     Title = '오늘의 배당·시황 노트 👋'
-    Content = '배당락일과 배당 일정, 그리고 그날의 시황을 비전공자도 이해할 수 있게 쉽게 풀어 적습니다.'
+    Content = '배당락일과 배당 일정, 그리고 그날의 시황을 이해할 수 있게 쉽게 풀어 적습니다.'
 
   [params.label]
     text = '오늘의 배당·시황 노트'
