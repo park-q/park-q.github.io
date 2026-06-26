@@ -1,0 +1,26 @@
+{
+  "theme": "base",
+  "themeVariables": {
+    "fontFamily": "-apple-system, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif",
+    "fontSize": "28px",
+    "primaryColor": "#EDE8E0",
+    "primaryBorderColor": "#C7BEB0",
+    "primaryTextColor": "#2D2A26",
+    "lineColor": "#8C8782",
+    "secondaryColor": "#E4E7E9",
+    "secondaryBorderColor": "#C7BEB0",
+    "secondaryTextColor": "#2D2A26",
+    "tertiaryColor": "#F4F1EC",
+    "tertiaryBorderColor": "#C7BEB0",
+    "tertiaryTextColor": "#2D2A26",
+    "edgeLabelBackground": "#F4F1EC"
+  },
+  "flowchart": {
+    "curve": "basis",
+    "padding": 16,
+    "nodeSpacing": 45,
+    "rankSpacing": 55,
+    "wrappingWidth": 520,
+    "useMaxWidth": false
+  }
+}
