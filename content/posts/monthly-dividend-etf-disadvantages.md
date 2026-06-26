@@ -1,6 +1,6 @@
 +++
 date = '2026-06-26T12:30:00+09:00'
-draft = true
+draft = false
 title = '월배당 ETF 단점, 초보가 꼭 알아야 할 함정'
 categories = ['월배당 ETF']
 tags = ['월배당 ETF', 'ETF 단점', '분배금', 'ETF 수익률']

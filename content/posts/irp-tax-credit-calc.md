@@ -1,6 +1,6 @@
 +++
 date = '2026-06-26T12:50:00+09:00'
-draft = true
+draft = false
 title = 'IRP 세액공제 계산 방법, 연말정산 환급 미리보기'
 categories = ['연금저축·IRP']
 tags = ['IRP', '세액공제', '연말정산', 'IRP 환급']
