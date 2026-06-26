@@ -25,3 +25,15 @@
     font-size: 15px;
   }
 }
+
+/* 투자 면책 박스 */
+.disclaimer-box {
+  margin-top: 2em;
+  padding: 1em 1.25em;
+  background-color: #F4F1EC;
+  border-left: 3px solid #C7BEB0;
+  border-radius: 4px;
+  font-size: 0.85em;
+  color: #5a5550;
+  line-height: 1.7;
+}
