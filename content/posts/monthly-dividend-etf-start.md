@@ -1,6 +1,6 @@
 +++
 date = '2026-06-26T15:00:00+09:00'
-draft = true
+draft = false
 title = '월배당 ETF 시작 방법, 계좌개설부터 매수까지'
 categories = ['월배당 ETF']
 tags = ['월배당 ETF', '월배당 ETF 시작', 'ETF 매수 방법', '월배당 ETF 초보', '분배금 확인']

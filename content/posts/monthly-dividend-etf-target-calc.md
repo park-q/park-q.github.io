@@ -1,6 +1,6 @@
 +++
 date = '2026-06-26T15:10:00+09:00'
-draft = true
+draft = false
 title = '월 50만원 배당, ETF로 만들려면 얼마 필요할까'
 categories = ['월배당 ETF']
 tags = ['월배당 ETF 계산', '월 50만원 배당', '필요 원금 계산', '분배율 역산', '월배당 ETF 목표']
