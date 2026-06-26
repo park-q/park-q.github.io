@@ -21,7 +21,7 @@ enableEmoji = true
 [params]
   env = 'production'
   description = '배당락일, 배당 일정, 그날의 시황을 쉽게 정리하는 노트'
-  author = 'ParkBoyeon'
+  author = '운영자'
   defaultTheme = 'auto'        # auto / light / dark
   ShowReadingTime = true
   ShowShareButtons = false
