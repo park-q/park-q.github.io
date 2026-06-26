@@ -3,6 +3,9 @@
 /resources/_gen/
 /.hugo_build.lock
 
+# Node 의존성 (mermaid-cli 등, package.json으로 재설치 가능)
+/node_modules/
+
 # OS 관련 파일
 .DS_Store
 Thumbs.db
