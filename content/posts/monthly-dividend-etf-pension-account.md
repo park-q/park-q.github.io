@@ -1,6 +1,6 @@
 +++
 date = '2026-06-26T16:10:00+09:00'
-draft = true
+draft = false
 title = '월배당 ETF, 연금저축 계좌에서 살 수 있을까'
 categories = ['월배당 ETF']
 tags = ['월배당 ETF', '연금저축', 'IRP', '절세계좌', 'ETF']
