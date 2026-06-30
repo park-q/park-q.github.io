@@ -2,7 +2,7 @@
 date = '2026-06-26T15:40:00+09:00'
 draft = false
 title = 'IRP 중도인출 방법, 가능한 사유와 세금'
-categories = ['IRP']
+categories = ['연금저축·IRP']
 tags = ['IRP', '중도인출', '퇴직연금', '세금', '연금계좌']
 description = 'IRP(개인형 퇴직연금) 중도인출이 가능한 법정 사유와 인출 시 내야 하는 세금, 절차까지 초보 눈높이로 정리했습니다.'
 +++
