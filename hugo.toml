@@ -11,6 +11,9 @@ theme = 'PaperMod'
 enableInlineShortcodes = true
 enableRobotsTXT = true
 buildDrafts = false
+
+[outputs]
+  home = ['HTML', 'RSS', 'ROBOTS']
 buildFuture = false
 buildExpired = false
 enableEmoji = true
