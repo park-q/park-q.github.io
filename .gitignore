@@ -9,3 +9,6 @@
 # OS 관련 파일
 .DS_Store
 Thumbs.db
+
+# IDE 설정 파일
+/.idea/
