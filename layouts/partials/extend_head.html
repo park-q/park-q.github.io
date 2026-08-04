@@ -1,5 +1,7 @@
+{{- if eq .Kind "page" "home" "section" "taxonomy" "term" -}}
 {{- with .Site.Params.adsenseClient }}
 <script async
   src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}"
   crossorigin="anonymous"></script>
 {{- end }}
+{{- end -}}
