@@ -12,3 +12,9 @@ Thumbs.db
 
 # IDE 설정 파일
 /.idea/
+
+# Google 서비스 계정 키 (절대 커밋 금지)
+*service-account*.json
+*-key.json
+park-q-*.json
+/secrets/
