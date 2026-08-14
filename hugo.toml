@@ -3,20 +3,20 @@ locale = 'ko-kr'
 title = '오늘의 배당·시황 노트'
 theme = 'PaperMod'
 
-# 페이지네이션 (한 페이지에 보일 글 수)
-[pagination]
-  pagerSize = 10
-
 # PaperMod 권장 설정
 enableInlineShortcodes = true
 enableRobotsTXT = true
 buildDrafts = false
-
-[outputs]
-  home = ['HTML', 'RSS', 'ROBOTS']
 buildFuture = false
 buildExpired = false
 enableEmoji = true
+
+# 페이지네이션 (한 페이지에 보일 글 수)
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ['HTML', 'RSS', 'ROBOTS']
 
 [minify]
   disableXML = true
